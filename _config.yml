@@ -1,0 +1,6 @@
+title: "My Portfolio"
+description: "A simple site built with Jekyll to host my portfolio and blog-posts"
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://qroop.github.io" # Change to your GitHub Pages URL
+theme: minima # Or remove if you want to fully customize
+exclude: [_unsorted, _templates]
